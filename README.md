@@ -29,7 +29,16 @@ python test.py
 Weather(temperature=70.0, condition='sunny')
 ```
 
+## Agent
+
+[ReAct loop[(https://docs.langchain.com/oss/python/langchain/agents)는 아래와 같습니다.
+
+<img width="324" height="363" alt="image" src="https://github.com/user-attachments/assets/ffed78c7-13dd-4b26-bea2-6ce984173f97" />
+
+
 ## Reference 
 
 [LangChain Python v1.0](https://docs.langchain.com/oss/python/releases/langchain-v1)
+
+[https://docs.langchain.com/oss/python/releases/langchain-v1]
 
